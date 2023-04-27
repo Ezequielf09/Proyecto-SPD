@@ -1,11 +1,11 @@
 # ⭐ ⭐ ⭐ Proyecto grupal SPD ⭐ ⭐ ⭐
-
+## Fleitas Ezequiel
+---
 ## Integrantes 😎
  
  * Flores Brandon
  * Corimayo Alan
  * Falanga Alejandro
- * Fleitas Ezequiel
  * Yapura Franco
 
 ## Proyecto: Semáforo para no videntes	
