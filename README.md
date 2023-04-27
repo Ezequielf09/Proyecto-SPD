@@ -30,8 +30,7 @@ a una fecuencia distinta, para luego esperar dos segundos, repitiendolo
 Luego pasa al verde, que apaga al anterior y solo se queda prendido
 45 segundos (ya que no tiene piezo y por lo tanto no necesita un for),
 Por último, se ejecuta una vez más el amarillo, exactamente igual que antes,
-Una vez terminados todos el loop comienza de nuevo y se ejecuta 
-a la perfección. Epic.
+Una vez terminados todos el loop comienza de nuevo y se ejecuta.
 
 ### 💻 Porcion del codigo 💻
 
